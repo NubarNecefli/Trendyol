@@ -1,0 +1,84 @@
+a {
+    text-decoration: none important;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none important;
+    color: black;
+}
+
+.maincontainer {
+    width: 60px;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.bgwhite {
+    background: white;
+    z-index: 6;
+}
+
+.accounttext {
+    font-size: 12px;
+    color: black;
+}
+
+.accounttext:hover {
+    color:red
+    }
+
+    .trendicon {
+        width: 150px;
+    }
+
+    .container {
+        display: flex;
+        width: 80%;
+        justify-content: space-around;
+        gap: 50px;
+        margin-top: 20px;
+        align-items: center;
+        margin: 0 auto;
+        background-color: white;
+    }
+    .iconlar{
+        display: flex;
+        gap: 25px;
+    }
+    #homepage{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+.thebest{
+    width: 70%;
+    display: flex;
+    margin: 0 auto;
+}
+.thebest p{
+    width: 25%;
+}
+.theBst1{
+    color: green;
+    background-color: rgb(239, 251, 245);
+}
+.theBst2{
+color: red;
+background-color: aliceblue;
+}
+.theBst2{
+color: pink;
+background-color: aliceblue;
+}
+.gallery{
+    width: 80%;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+.img{
+    width: 300px;
+    height: 150px;
+}
+    
